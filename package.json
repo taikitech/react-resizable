@@ -1,6 +1,6 @@
 {
   "name": "react-resizable",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "A component that is resizable with handles.",
   "main": "index.js",
   "scripts": {
@@ -46,7 +46,8 @@
   },
   "dependencies": {
     "object-assign": "^4.0.1",
-    "react-draggable": "^1.0.0"
+    "react-draggable": "^1.0.0",
+    "react-dom": "^0.14.6"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
